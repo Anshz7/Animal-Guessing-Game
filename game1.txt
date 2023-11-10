@@ -1,0 +1,31 @@
+12 Is it usually bigger than a 12 year old human being? (yes/no)
+4 does it live in a cold place? (yes/no)
+2 is it wild? (yes/no)
+8 Is it bird? (yes/no)
+1 The animal is "Dog"
+3 The animal is "Parrot"
+6 can it fly? (yes/no)
+10 Does it hunt? (yes/no)
+5 The animal is "Capybara"
+7 The animal is "Fox"
+9 The animal is "Eagle"
+11 The animal is "Penguin"
+20 Is it carnivorous? (yes/no)
+16 Does it provide a daily need product? (yes/no)
+14 Is it black and white? (yes/no)
+13 The animal is "Deer"
+15 The animal is "Zebra"
+18 Does it provide cotton? (yes/no)
+17 The animal is "Cow"
+19 The animal is "Sheep"
+24 Does it live on land? (yes/no)
+22 is it the world's largest animal? (yes/no)
+21 The animal is "Shark"
+23 The animal is "Whale"
+28 Does it belong to the cat family? (yes/no)
+26 Is it a reptile? (yes/no)
+25 The animal is "Bear"
+27 The animal is "Crocodile"
+30 Is it known as the "King of the jungle"? (yes/no)
+29 The animal is "Tiger"
+31 The animal is "Lion"
